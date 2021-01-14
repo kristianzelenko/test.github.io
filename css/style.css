@@ -1,0 +1,28 @@
+body{
+    padding: 0;
+    margin: 0 auto;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap:wrap;
+    justify-content: center;
+}
+
+.test1{
+    width: 100%;
+    height: 275px;
+    background-color: blue;
+    display: inline-table;
+}
+.test2{
+    width: 100%;
+    height: 275px;
+    background-color: red;
+}
+.test3{
+    width: 100%;
+    height: 275px;
+    background-color: purple;
+}
